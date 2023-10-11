@@ -9,5 +9,5 @@ Delicious se convirtió rápidamente en una herramienta popular para la gestión
 
 ## Historia
 
-Delicious se convirtió rápidamente en una herramienta popular para la gestión de marcadores en línea y la colaboración en la web. Fue adquirido por Yahoo en 2005 y pasó a formar parte de su cartera de servicios. Sin embargo, a lo largo de los años, Delicious experimentó cambios y desafíos, incluyendo problemas de gestión y cambios en su modelo de negocio.
+ Fue adquirido por Yahoo en 2005 y pasó a formar parte de su cartera de servicios. Sin embargo, a lo largo de los años, Delicious experimentó cambios y desafíos, incluyendo problemas de gestión y cambios en su modelo de negocio.
 
